@@ -8,9 +8,9 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }}{% if site.tagline %} &middot; {{ site.tagline }}{% endif %}
+      {{ site.title }}{% if site.tagline %} - It's the place to be{% endif %}
     {% else %}
-      {{ page.title }} &middot; {{ site.title }}
+      {{ page.title }} - {{ site.title }}
     {% endif %}
   </title>
 
