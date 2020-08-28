@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Staff
+permalink: /staff/
 sidebar_link: true
 ---
 
