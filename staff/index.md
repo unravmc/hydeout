@@ -33,7 +33,7 @@ All of our staff members are responsible for appropriately moderating and conduc
     </div>
     <div class="Team-member">
       <h3>
-        <a href="https://forum.unraveledmc.com/u/lakefield" target="_blank">
+        <a href="{{ site.baseurl }}/staff/executives/lakefield" target="_blank">
           <img src="https://crafatar.com/renders/head/77ca708d0717449bae691c503296e133?&amp;overlay" alt="Lakefield" width="108"></a>
       </h3>
     </div>
