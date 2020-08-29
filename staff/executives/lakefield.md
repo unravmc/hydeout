@@ -6,7 +6,7 @@ sidebar_link: false
 ---
 
 <ul>
-<img class="Staff-feature" src="https://crafatar.com/renders/head/77ca708d0717449bae691c503296e133?&amp;overlay" alt="Lakefield" width="108">
+<img class="Staff-feature" src="https://crafatar.com/renders/body/77ca708d0717449bae691c503296e133?&amp;overlay" alt="Lakefield" width="108">
 
 <h1>Lakefield</h1>
 <h3 style="margin-top: -1rem;"><span style="color: #cb4335">Executive <i>of</i> Platform and Interface</span></h3>
@@ -21,3 +21,6 @@ Prior to UnraveledMC, Lakefield was the Assistant Executive Creative Designer fo
 
 > "If I had more time, I would have written a shorter letter." *-- Mark Twain, Blaise Pascal.*
 
+## Contact Lakefield
+* Discord: `@Lakefield#0484`
+* Forum: `@`[Lakefield](https://unraveledmc.com/u/lakefield)
