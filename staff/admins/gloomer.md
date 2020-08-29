@@ -11,7 +11,11 @@ sidebar_link: false
 <h1>Gloomer</h1>
 <h3 style="margin-top: -1rem;"><span style="color: #f7941d">Admin</span></h3>
 </ul>
-Gloomer is currently an Admin and is a member of the staff team. 
+Gloomer is currently an Admin and is a member of the staff team.
+
+He has been a member of the community since April of 2020, and has been a staff member since May of 2020. He has previously served as a Mod.
+
+He currently sits on UnraveledMC’s Architect Team as an Admin.
 
 > "I'm Gloomer" *-- Gloomer.*
 
