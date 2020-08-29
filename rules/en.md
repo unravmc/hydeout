@@ -143,3 +143,36 @@ The platforms offered that encourage collaboration and community should be respe
         </ul>
 </details>
 
+### 3. Avoid cheating and exploiting.
+Our players should experience an environment that is free from cheating or abuse of exploits.
+
+<details>
+  <summary>Why have this rule?</summary>
+      <p>When cheating or exploiting occurs, it ruins the experience for others who try to play fairly. Everyone should be on a level playing field, and shouldn't be put at a disadvantage for following the rules.</p>
+</details>
+
+<details>
+  <summary>What exactly does this rule mean?</summary>
+      <p>All of our players should have access to the same advantages as everyone else. Specifically, avoid the following:</p>
+        <ul>
+          <li>Using hacked clients to fight or compete</li>
+          <li>Using hacked clients to break the rules</li>
+          <li>Taking advantage of a bug or error in a program or plugin</li>
+          <li>Not reporting any bugs or errors</li>
+        </ul>
+</details>
+
+<details>
+  <summary>What do we mean by a bug or exploit?</summary>
+      <p>A bug refers to a software bug in a program or system. It is a flaw that can result in something that was incorrect or unexpected or will behave in unintended ways.</p>
+</details>
+
+<details>
+  <summary>How can I report someone for cheating or exploiting?</summary>
+      <p>There are a couple of ways to report the behavior of someone.</p>
+        <ul>
+          <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report/">online form</a> to file a report on the forum.</li>
+          <li>Discord. Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
+          <li>Inform an online staff member on the server.</li>
+        </ul>
+</details>
