@@ -17,5 +17,5 @@ At UnraveledMC, his duties as Platform and Interface Executive span far and wide
 
 Prior to UnraveledMC, Lakefield was the Assistant Executive Creative Designer for TotalFreedom and was responsible for managing the server's Master Builders and oversaw their creative processes with xfilez. He currently sits on TotalFreedom's Internal Affairs team as an Administrator. 
 
-<span><blockquote>If I had more time, I would have written a shorter letter.</blockquote> <i>-- Mark Twain, Blaise Pascal</i>.
+> "If I had more time, I would have written a shorter letter." *-- Mark Twain, Blaise Pascal.*
 
