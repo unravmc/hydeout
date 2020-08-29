@@ -13,11 +13,9 @@ sidebar_link: false
 </ul>
 DrunkAsSkunk is currently a Backend Developer and is a member of the Development team. 
 
-She has been a member of the community since March of 2020, and has been a Developer since April of 2020. 
+She has been a member of the community since March of 2020, and has been a Developer since April of 2020. She previously served as an Executive.
 
 At UnraveledMC, her duties as Backend Developer entail managing technical aspects of the server from the command line. Usually associated with a Systems Administrator, she is responsible for the server’s forum and management panel as well as ensures their uptime and keeps them up-to-date.
-
-Previously, she was an Executive for the server. 
 
 Prior to UnraveledMC, DrunkAsSkunk was formerly a Senior Admin for TotalFreedom. She currently occupies a position in TotalFreedom's staff as a Senior Admin and Systems Administrator.
 
