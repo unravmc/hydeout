@@ -52,13 +52,13 @@ These members are the “bosses” of the server. Anyone of these members holds 
   <div class="Team-members">
     <div class="Team-member">
       <h3>
-        <a href="{{ site.baseurl }}/staff/executives/dr_coomer" target="_blank">
+        <a href="{{ site.baseurl }}/staff/executives/dr_coomer">
           <img src="https://crafatar.com/renders/head/a05dca8cafc8493e8e767f5e2371b59c?&amp;overlay" alt="Dr_Coomer" width="108"></a>
       </h3>
     </div>
     <div class="Team-member">
       <h3>
-        <a href="{{ site.baseurl }}/staff/executives/drunkasskunk" target="_blank">
+        <a href="{{ site.baseurl }}/staff/developers/drunkasskunk">
           <img src="https://crafatar.com/renders/head/eca5074c25da49bd8a8529ce598ccdf4?&amp;overlay" alt="DrunkAsSkunk" width="108"></a>
       </h3>
     </div>
