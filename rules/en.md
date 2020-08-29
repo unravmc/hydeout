@@ -184,7 +184,7 @@ Our players should be able to play in a safe and secure place without fear of th
 <details>
   <summary>Why have this rule?</summary>
       <p>Life is better when it's secure, and our players deserve a place without transactions or account phishing. Security also means being responsible for your own account, and its credentials should be kept to you and you only.</p>
-      <p>Staff members will never ask for personal information or any credentials to your account. File a <a href="https://forum.unraveledmc.com/report">report</a> immediately if this happens.
+      <p>Staff members will never ask for personal information or any credentials to your account. File a <a href="https://forum.unraveledmc.com/report">report</a> immediately if this happens.</p>
 </details>
 
 <details>
