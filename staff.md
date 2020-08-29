@@ -126,7 +126,7 @@ These members are the highest-ranking of our traditionally obtainable staff posi
         </ul>
       <h3>Discord:</h3>
         <ul>
-          <li>Moderation abilities. These users are able to moderate the server guild. They are able to manage messages and users. This includes kicking and banning people from the guild and assigning roles./li>
+          <li>Moderation abilities. These users are able to moderate the server guild. They are able to manage messages and users. This includes kicking and banning people from the guild and assigning roles.</li>
         </ul>
 </details>
 
