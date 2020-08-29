@@ -160,6 +160,7 @@ Our players should experience an environment that is free from cheating or abuse
           <li>Taking advantage of a bug or error in a program or plugin</li>
           <li>Not reporting any bugs or errors</li>
         </ul>
+       <blockquote>Note: All forms of cheating or exploiting are strictly banned on the <strong><span style="color: #cb4335">Survival</span></strong> server. The mentioned limits on hacks or hacked clients are for the <strong><span style="color: #00a8a8">Creative</span></strong> server specifically. 
 </details>
 
 <details>
