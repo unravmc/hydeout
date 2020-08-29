@@ -21,7 +21,7 @@ All of our staff members are responsible for appropriately moderating and conduc
     </div>
     <div class="Team-member">
       <h3>
-        <a href="https://forum.unraveledmc.com/u/paldiu">
+        <a href="{{ site.baseurl }}/staff/executives/dr_coomer">
           <img src="https://crafatar.com/renders/head/a05dca8cafc8493e8e767f5e2371b59c?&amp;overlay" alt="Dr_Coomer" width="108"></a>
       </h3>
     </div>
