@@ -54,7 +54,7 @@ Comply with all of the requests of staff members, and be truthful and forthcomin
   <summary>How can I report someone for not complying with staff members?</summary>
       <p>Generally, staff members will take care of this issue on their own, but there are a couple of ways to report the behavior of someone.</p>
         <ul>
-          <li><strong><span style="color: #f39c12">Recommended: Forum report</span></strong> Use the <a href="{{ site.baseurl }}/report/">online form</a> to file a report on the forum.</li>
+          <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report/">online form</a> to file a report on the forum.</li>
           <li>Discord. Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
           <li>Inform an online staff member on the server.</li>
         </ul>
