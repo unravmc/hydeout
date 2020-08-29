@@ -15,25 +15,25 @@ All of our staff members are responsible for appropriately moderating and conduc
   <div class="Team-members">
     <div class="Team-member">
       <h3>
-        <a href="{{ site.baseurl }}/staff/executives/1967" target="_blank">
+        <a href="{{ site.baseurl }}/staff/executives/1967">
           <img src="https://crafatar.com/renders/head/6fa574108a8c46d7ab77476ed0cdbe20?&amp;overlay" alt="1967" width="108"></a>
       </h3>
     </div>
     <div class="Team-member">
       <h3>
-        <a href="https://forum.unraveledmc.com/u/paldiu" target="_blank">
+        <a href="https://forum.unraveledmc.com/u/paldiu">
           <img src="https://crafatar.com/renders/head/a05dca8cafc8493e8e767f5e2371b59c?&amp;overlay" alt="Dr_Coomer" width="108"></a>
       </h3>
     </div>
     <div class="Team-member">
       <h3>
-        <a href="https://forum.unraveledmc.com/u/mosley" target="_blank">
+        <a href="{{ site.baseurl }}/staff/executives/fssp">
           <img src="https://crafatar.com/renders/head/71a44a2bb6fb471b80ab4cd36f558c24?&amp;overlay" alt="fssp" width="108"></a>
       </h3>
     </div>
     <div class="Team-member">
       <h3>
-        <a href="{{ site.baseurl }}/staff/executives/lakefield" target="_blank">
+        <a href="{{ site.baseurl }}/staff/executives/lakefield">
           <img src="https://crafatar.com/renders/head/77ca708d0717449bae691c503296e133?&amp;overlay" alt="Lakefield" width="108"></a>
       </h3>
     </div>
