@@ -177,3 +177,39 @@ Our players should experience an environment that is free from cheating or abuse
           <li>Inform an online staff member on the server.</li>
         </ul>
 </details>
+
+### 4. Remain secure.
+Our players should be able to play in a safe and secure place without fear of their account being stolen.
+
+<details>
+  <summary>Why have this rule?</summary>
+      <p>Life is better when it's secure, and our players deserve a place without transactions or account phishing. Security also means being responsible for your own account, and its credentials should be kept to you and you only.</p>
+      <p>Staff members will never ask for personal information or any credentials to your account. File a <a href="https://forum.unraveledmc.com/report">report</a> immediately if this happens.
+</details>
+
+<details>
+  <summary>What exactly does this rule mean?</summary>
+      <p>Players should be able to experience an environment that is secure. Specifically, avoid the following:</p>
+        <ul>
+          <li>Any form of transactions or exchange of goods</li>
+          <li>Accessing an account that isn't yours</li>
+          <li>Pretending to be another user</li>
+          <li>Soliciting illegal actions</li>
+        </ul>
+</details>
+
+<details>
+  <summary>What do we mean by an account?</summary>
+      <p>Your <a href="https://minecraft.net">Minecraft</a> account is yours that controls your profile. Your account on our forum is yours as well. Do not let other people access it, and regularly change your account password.</p>
+      <p>Members should notify an Executive before making another account if they intend to do so. Anything that violates United States law will be notified to proper authorities; we are based in the U.S. and work within its laws.</p>
+</details>
+
+<details>
+  <summary>How can I report someone for not respecting security rules?</summary>
+      <p>There are a couple of ways to report the behavior of someone.</p>
+        <ul>
+          <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report/">online form</a> to file a report on the forum.</li>
+          <li>Discord. Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
+          <li>Inform an online staff member on the server.</li>
+        </ul>
+</details>
