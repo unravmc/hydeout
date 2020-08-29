@@ -21,6 +21,6 @@ Prior to UnraveledMC, fssp was the owner of his own server, shadow.ga, and was f
 
 > "Something about the Catholic Church." *-- fssp.*
 
-## Contact Lakefield
+## Contact fssp
 * Discord: `@grntbg#1685`
 * Forum: <a href="https://forum.unraveledmc.com/u/mosley" target="_blank">@Mosley</a>
