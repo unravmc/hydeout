@@ -11,5 +11,5 @@ tags:
 
 The new website now houses some fancy pages for the server's [rules](../rules) and [staff](../staff). Instead of being housed in a topic on the forum, they will now live forever here on the homepage. Don't worry, we still offer language support and no existing links are broken.
 
-![rules](https://sharethe.minecraftdoublesmoothstoneslab.website/i/y0lq.png "Rules page")
+![rules](https://sharethe.minecraftdoublesmoothstoneslab.website/i/prbi.png "Rules page")
 ![staff](https://sharethe.minecraftdoublesmoothstoneslab.website/i/bcqf.png "Staff page")
