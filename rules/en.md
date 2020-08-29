@@ -11,8 +11,6 @@ We try to keep all of our platforms clean, without a hostile playing environment
 
 ## Golden rule
 
-<hr>
-
 ### 1. Comply with staff members
 Comply with all of the requests of staff members, and be truthful and forthcoming with anything they might ask.
 
@@ -52,10 +50,56 @@ Comply with all of the requests of staff members, and be truthful and forthcomin
 
 <details>
   <summary>How can I report someone for not complying with staff members?</summary>
-      <p>Generally, staff members will take care of this issue on their own, but there are a couple of ways to report the behavior of someone.</p>
+      <p>There are a couple of ways to report the behavior of someone.</p>
         <ul>
           <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report/">online form</a> to file a report on the forum.</li>
           <li>Discord. Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
           <li>Inform an online staff member on the server.</li>
         </ul>
 </details>
+
+## General rules
+
+### 1. Be respectful of others.
+All players are deserving of respect, and should not be harmed, attacked, or treated unfairly on any platform.
+
+<details>
+  <summary>Why have this rule?</summary>
+      <p>We want all of our players to feel welcome, and to be a safe place for people to communicate and have fun. Everyone should be able to make new friends and have an enjoyable experience on our servers.</p>
+      <p>Think twice before sending someone something hurtful. Everyone should be able to enjoy the server safely, and everyone should be mindful of the business of other people.</p>
+</details>
+
+<details>
+  <summary>What exactly does this rule mean?</summary>
+      <p>All of our players should be able to experience the server in the same positive environment as everyone else. Specifically, avoid:</p>
+        <ul>
+          <li>Advertising other platforms or services or posting invites to servers other than this one</li>
+          <li>Repeating the same or similar messages, avoiding any mute or chat filters</li>
+          <li>Encouraging violence or other attacks</li>
+          <li>Disrespecting privacy limits in-game and in real life</li>
+          <li>Encouraging any form of self-harm</li>
+          <li>Excessive swearing or caps</li>
+          <li>Sharing private or personal information without their consent</li>
+          <li>Framing other people or falsifying information</li>
+          <li>Referring to pornography or hateful content</li>
+          <li>Modifying creations of others without their approval</li>
+          <li>Soliciting illegal actions</li>
+          <li>Plagiarizing the content of others</li>
+        </ul>
+</details>
+
+<details>
+  <summary>What do we mean by a player?</summary>
+      <p>A player is anyone who plays on any of our platforms, including our staff members.</p>
+</details>
+
+<details>
+  <summary>How can I report someone for not being respectful of others?</summary>
+      <p>There are a couple of ways to report the behavior of someone.</p>
+        <ul>
+          <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report/">online form</a> to file a report on the forum.</li>
+          <li>Discord. Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
+          <li>Inform an online staff member on the server.</li>
+        </ul>
+</details>
+
