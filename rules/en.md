@@ -46,7 +46,7 @@ Comply with all of the requests of staff members, and be truthful and forthcomin
           <li>Executives will have a <span style="color: #515a5a">[</span><span style="color: #cb4335">Exec</span><span style="color: #515a5a">]</span> prefix and a <span style="color: #e74c3c">light red</span> name.</li>
           <li>Developers will have a <span style="color: #515a5a">[</span><span style="color: #652d90">Dev</span><span style="color: #515a5a">]</span> prefix and a <span style="color: #af7ac5">light purple</span> name.</li>
           <li>Admins will have a <span style="color: #515a5a">[</span><span style="color: #f7941d">Admin</span><span style="color: #515a5a">]</span> prefix and a <span style="color: #f4d03f">yellow</span> name.</li>
-          <li>Mods will have a <span style="color: #515a5a">[</span><span style="color: #1e8449">Dev</span><span style="color: #515a5a">]</span> prefix and a <span style="color: #3AB54A">lime green</span> name.</li>
+          <li>Mods will have a <span style="color: #515a5a">[</span><span style="color: #1e8449">Mod</span><span style="color: #515a5a">]</span> prefix and a <span style="color: #3AB54A">lime green</span> name.</li>
         </ul>
 </details>
 
