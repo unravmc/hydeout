@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Welcome to UnraveledMC
+categories:
+ - news
+tags:
+ - news
+ - website
 ---
 
 Welcome to UnraveledMC's new home on the World Wide Web. This new homepage will house some of our most important server information, the server's rules and will allow our players to keep more informed about what's going on. 
