@@ -79,25 +79,25 @@ While developers are granted the tools to manage plugins, in any administrative 
   <div class="Team-members">
     <div class="Team-member">
       <h3>
-        <a href="https://forum.unraveledmc.com/u/gloomer" target="_blank">
+        <a href="{{ site.baseurl }}/staff/admins/gloomer" target="_blank">
           <img src="https://crafatar.com/renders/head/de9cdbd753cb4e169e0d51c069216d57?&amp;overlay" alt="Gloomer" width="108"></a>
       </h3>
     </div>
     <div class="Team-member">
       <h3>
-        <a href="https://forum.unraveledmc.com/u/nohax" target="_blank">
+        <a href="{{ site.baseurl }}/staff/admins/sced" target="_blank">
           <img src="https://crafatar.com/renders/head/81bb56c4c5ba46678bfbd6fa30d82ee5?&amp;overlay" alt="Sced" width="108"></a>
       </h3>
     </div>
     <div class="Team-member">
       <h3>
-        <a href="https://forum.unraveledmc.com/u/thehour" target="_blank">
+        <a href="{{ site.baseurl }}/staff/admins/thehour" target="_blank">
           <img src="https://crafatar.com/renders/head/ced197edb77a4f71aee2a2b5bc4f5b37?&amp;overlay" alt="TheHour" width="108"></a>
       </h3>
     </div>
     <div class="Team-member">
       <h3>
-        <a href="https://forum.unraveledmc.com/u/theoneshotsniper" target="_blank">
+        <a href="{{ site.baseurl }}/staff/admins/theoneshotsniper" target="_blank">
           <img src="https://crafatar.com/renders/head/9364312bfad443ffa355536bb709cb8e?&amp;overlay" alt="TheOneShotSniper" width="108"></a>
       </h3>
     </div>
