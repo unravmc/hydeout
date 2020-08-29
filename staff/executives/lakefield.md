@@ -23,4 +23,4 @@ Prior to UnraveledMC, Lakefield was the Assistant Executive Creative Designer fo
 
 ## Contact Lakefield
 * Discord: `@Lakefield#0484`
-* Forum: `@`[Lakefield](https://unraveledmc.com/u/lakefield)
+* Forum: [@Lakefield](https://unraveledmc.com/u/lakefield)
