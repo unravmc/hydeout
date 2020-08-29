@@ -23,6 +23,6 @@ Prior to UnraveledMC, Dr_Coomer was the owner of his own server, FreedomOP, and 
 
 > "East? I thought you said Weast!" *-- Patrick Star.*
 
-## Contact Lakefield
+## Contact Dr_Coomer
 * Discord: `King Fischer#0001`
 * Forum: <a href="https://forum.unraveledmc.com/u/paldiu" target="_blank">@Paldiu</a>
