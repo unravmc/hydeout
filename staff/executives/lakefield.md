@@ -9,4 +9,13 @@ sidebar_link: false
 
 # Lakefield
 <h3 style="margin-top: -1rem;"><span style="color: #cb4335">Executive <i>of</i> Platform and Interface</span></h3>  
-Lakefield is the is the is the is the
+Lakefield is currently the Executive of Platform and Interface and is a member of the Executive team. 
+
+He has been a member of the community since March of 2020, and has been a server Executive since its establishment. 
+
+At UnraveledMC, his duties as Platform and Interface Executive span far and wide, and often is responsible for updating and adding new features to the in-game server, as well as its online communities. Lakefield is also responsible for many of the server's written documents and the website. He heads the Events Squad, and assists in the management of the server's staff. 
+
+Prior to UnraveledMC, Lakefield was the Assistant Executive Creative Designer for TotalFreedom and was responsible for managing the server's Master Builders and oversaw their creative processes with xfilez. He currently sits on TotalFreedom's Internal Affairs team as an Administrator. 
+
+<span><blockquote>If I had more time, I would have written a shorter letter.</blockquote> <i>-- Mark Twain, Blaise Pascal</i>.
+
