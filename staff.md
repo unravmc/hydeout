@@ -106,7 +106,7 @@ While developers are granted the tools to manage plugins, in any administrative 
     
 <hr>
 
-These members are the highest-ranking of our traditionally obtainable staff positions. They have all the same permissions as a Mod, but also are responsible for permanent punishments. Admins are also given moderation abilities on the [Discord](../discord/) server. 
+These members are the highest-ranking of our traditionally obtainable staff positions. They have all the same permissions as a Mod, but also are responsible for permanent punishments. They are given forum moderator permissions, as well as moderation abilities on the [Discord](../discord/) server.  
 
 <details>
   <summary>Detailed rank information</summary>
@@ -116,16 +116,78 @@ These members are the highest-ranking of our traditionally obtainable staff posi
           <li>Permanent banning. Admins are able to permanently ban any user in accordance with the conduct policy. A report must immediately be filed with appropriate evidence and can undo this action with a command.</li>
           <li>Staff management. These users are able to add and remove members to and from staff status on the server. They can add and remove Mods and Admins only.</li>
           <li>Server restriction. Admins are also able to close the server into the event and staff-only modes.</li>
-          <li>Control panel access. These users are able to stop, restart, and start the server using their assigned panel account on the server management panel. </li>
+          <li>Control panel access. These users are able to stop, restart, and start the server using their assigned panel account on the server management panel.</li>
         </ul>
       <h3>Forum:</h3>
         <ul>
-          <li>Staff suspensions. Admins are able to suspend a Mod from status and file a report with appropriate evidence. </li>
+          <li>Staff suspensions. Admins are able to suspend a Mod from status and file a report with appropriate evidence.</li>
           <li>Actions access: Access to permanent banning and suspensions means Admins are also able to post logs of their actions using the template.</li>
           <li>Moderation abilities. These users are able to moderate the server forum. They are able to delete and edit posts, sticky and lock threads, and can mute and ban users from the platform.</li>
         </ul>
       <h3>Discord:</h3>
         <ul>
-          <li>Moderation abilities. These users are able to moderate the server guild. They are able to manage messages and users. This includes kicking and banning people from the guild. They cannot assign roles nor can they create or edit channels.</li>
+          <li>Moderation abilities. These users are able to moderate the server guild. They are able to manage messages and users. This includes kicking and banning people from the guild and assigning roles./li>
+        </ul>
+</details>
+
+### Mods
+
+<hr>
+
+<div class="Team" style="padding: 0; margin-top: -20px; margin-bottom: -20px;">
+  <div class="Team-members">
+    <div class="Team-member">
+      <h3>
+        <a href="https://forum.unraveledmc.com/u/ctanut" target="_blank">
+          <img src="https://crafatar.com/renders/head/4c10faef646d46d193eab8ae660d9b5f?&amp;overlay" alt="CTAnut" width="108"></a>
+      </h3>
+    </div>
+    <div class="Team-member">
+      <h3>
+        <a href="https://forum.unraveledmc.com/u/esoboomer" target="_blank">
+          <img src="https://crafatar.com/renders/head/91506894c71d4d91aa1c886ea9d54243?&amp;overlay" alt="JakeTheGamerChP" width="108"></a>
+      </h3>
+    </div>
+    <div class="Team-member">
+      <h3>
+        <a href="https://forum.unraveledmc.com/u/kai" target="_blank">
+          <img src="https://crafatar.com/renders/head/a6165b3611634d98be74ec1c50aef789?&amp;overlay" alt="1626s" width="108"></a>
+      </h3>
+    </div>
+    <div class="Team-member">
+      <h3>
+        <a href="https://forum.unraveledmc.com/u/lukyplex" target="_blank">
+          <img src="https://crafatar.com/renders/head/8d26d7faf62243cebf19155a1d8488d9?&amp;overlay" alt="youngbibish" width="108"></a>
+      </h3>
+    </div>
+  </div>
+</div>
+    
+<hr>
+
+These members are the lowest-level members of the staff on the server, but the permissions they have are the essentials for moderation. They have access to kicking and banning in-game, and are given ability to suggest players to be permanently banned. 
+
+<details>
+  <summary>Detailed rank information</summary>
+      <h3>In-game:</h3>
+        <ul>
+          <li>Muting players. Mods are able to mute any user they feel is abusing their privileges in chat or private messages.</li>
+          <li>Kicking players. If an operator does not listen to them or to the warnings of other staff members, they may choose to kick them from the server.</li>
+          <li>Plot moderation. Mods have the ability to delete an offensive plot, set or delete plot members and manually modify plots in any way.</li>
+          <li>Region protection. These staff members are able to protect regions at an operator’s request or protect builds of their own. They can set the region flags, the region’s members, or owners. They can delete or modify existing regions.</li>
+          <li>Block logging. Rolling back members after issuing a temporary ban, restoring a rollback or inspecting blocks. Mods are free to use the entire CoreProtect suite.</li>
+          <li>Unrestricted WorldEdit limit. Mods are able to edit as many blocks as they would like as staff members and bypass the 5,000 block edit limit.</li>
+          <li>Staffworld edit access. All staff members are able to freely build in the staff world. Only members with staff status on the server can build here.</li>
+          <li>Miscellaneous permissions. Some other permissions are miscellaneous, such as being able to override when a user disables their teleportation or deleting warps.</li>
+        </ul>
+      <h3>Forum:</h3>
+        <ul>
+          <li>Application voting. Mods are able to vote on applications using the recommended guidelines.</li>
+          <li>Staff sections. These members can access staff-only areas of the forum and can see action reports.</li>
+          <li>Moderation abilities. These users have the ability to lock and edit posts in non-staff member sections.</li>
+        </ul>
+      <h3>Discord:</h3>
+        <ul>
+          <li>Staff sections. These members can access staff-only channels of the guild.</li>
         </ul>
 </details>
