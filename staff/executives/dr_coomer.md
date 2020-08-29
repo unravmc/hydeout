@@ -11,7 +11,7 @@ sidebar_link: false
 <h1>Dr_Coomer</h1>
 <h3 style="margin-top: -1rem;"><span style="color: #cb4335">Executive <i>of</i> Development</span></h3>
 </ul>
-1967 is currently the Executive of Development and is a member of the Executive team. 
+Dr_Coomer is currently the Executive of Development and is a member of the Executive team. 
 
 He has been a member of the community since March of 2020, and has been a server Executive since June of 2020. 
 
