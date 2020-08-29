@@ -103,3 +103,43 @@ All players are deserving of respect, and should not be harmed, attacked, or tre
         </ul>
 </details>
 
+### 2. Be respectful of the server.
+The platforms offered that encourage collaboration and community should be respected so everyone can enjoy using them and should not be attacked or defaced.
+
+<details>
+  <summary>Why have this rule?</summary>
+      <p>Everyone wants to be able to enjoy the server without downtime and should have free access to the services we offer. Everyone should have access to a stable server to enjoy.</p>
+</details>
+
+<details>
+  <summary>What exactly does this rule mean?</summary>
+      <p>All of our players should be able to freely access a stable and lag-free server without connection issues. Specifically, avoid:</p>
+        <ul>
+          <li>Attempts to crash the server or cause downtime</li>
+          <li>Large block edit operations</li>
+          <li>Hacked clients that can cause instability</li>
+          <li>Corrupting worlds or world chunks</li>
+          <li>Using bot applications to spam the server</li>
+        </ul>
+</details>
+
+<details>
+  <summary>What do we mean by the server?</summary>
+      <p>The "server" refers to all community platforms that are official to UnraveledMC. This includes:</p>
+        <ul>
+          <li>The in-game <a href="https://forum.unraveledmc.com/t/how-to-connect-to-the-server/475">Minecraft</a> server</li>
+          <li>The <a href="{{ site.baseurl }}/community">forum</a> community</li>
+          <li>The <a href="{{ site.baseurl }}/discord">Discord</a> guild</li>
+        </ul>
+</details>
+
+<details>
+  <summary>How can I report someone for not being respectful of the server?</summary>
+      <p>There are a couple of ways to report the behavior of someone.</p>
+        <ul>
+          <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report/">online form</a> to file a report on the forum.</li>
+          <li>Discord. Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
+          <li>Inform an online staff member on the server.</li>
+        </ul>
+</details>
+
