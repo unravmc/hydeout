@@ -15,7 +15,7 @@ All of our staff members are responsible for appropriately moderating and conduc
   <div class="Team-members">
     <div class="Team-member">
       <h3>
-        <a href="https://forum.unraveledmc.com/u/panther" target="_blank">
+        <a href="{{ site.baseurl }}/staff/executives/1967" target="_blank">
           <img src="https://crafatar.com/renders/head/6fa574108a8c46d7ab77476ed0cdbe20?&amp;overlay" alt="1967" width="108"></a>
       </h3>
     </div>
