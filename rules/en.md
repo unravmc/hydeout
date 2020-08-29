@@ -43,6 +43,6 @@ Comply with all of the requests of staff members, and be truthful and forthcomin
   <summary>Who is a staff member?</summary>
       <p>All staff members can be located by the prefix before their name:</p>
         <ul>
-          <li>Executives will have a <p color="#515a5a">[</p><p color="#cb4335">Exec</p><p color="#515a5a">]</p> prefix and a <p color="#e74c3c">light red</p> name.</li>
+          <li>Executives will have a <span style="color: #515a5a">[</span><span style="color: #cb4335">Exec</span><span style="color: #515a5a">]</span> prefix and a <span style="color: #e74c3c">light red</span> name.</li>
         </ul>
 </details>
