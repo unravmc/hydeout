@@ -3,6 +3,11 @@ layout: default
 ---
 
 <div class="content">
+  <ul>
+    <img class="Staff-feature" src="https://crafatar.com/renders/body/{{ post.uuid }}?&amp;overlay" alt="{{ post.username }}" width="108">
+      <h1>{{ post.username }}</h1>
+      <h3 style="margin-top: -1rem;"><span style="color: #{{ post.rankcolor }}">{{ post.rank }}</span></h3>
+  </ul>
   {{ content }}
 </div>
 
