@@ -1,16 +1,13 @@
 ---
 layout: staff
 title: fssp
+rank: Executive of Business
+rankcolor: cb4335
+uuid: 71a44a2bb6fb471b80ab4cd36f558c24
 permalink: /staff/executives/fssp
 sidebar_link: false
 ---
 
-<ul>
-<img class="Staff-feature" src="https://crafatar.com/renders/body/71a44a2bb6fb471b80ab4cd36f558c24?&amp;overlay" alt="fssp" width="108">
-
-<h1>fssp</h1>
-<h3 style="margin-top: -1rem;"><span style="color: #cb4335">Executive <i>of</i> Business</span></h3>
-</ul>
 fssp is currently the Executive of Business and is a member of the Executive team. 
 
 He has been a member of the community since March of 2020, and has been a server Executive since its establishment. 
