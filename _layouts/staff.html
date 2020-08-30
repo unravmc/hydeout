@@ -6,9 +6,14 @@ layout: default
   <ul>
     <img class="Staff-feature" src="https://crafatar.com/renders/body/{{ page.uuid }}?&amp;overlay" alt="{{ page.title }}" width="108">
       <h1>{{ page.title }}</h1>
-      <h3 style="margin-top: -1rem;"><span style="color: #{{ page.rankcolor }}">{{ page.rank }}</span></h3>
+      <h3 style="margin-top: -1rem;"><span style="color: #{{ page.rank-color }}">{{ page.rank }}</span></h3>
   </ul>
   {{ content }}
+      <h2>Contact {{ page.title }}</h2>
+       <ul>
+         <li>Discord: <code>@{{ page.discord}}</code></li>
+         <li>Forum: <a href="https://forum.unraveledmc.com/u/{{ page.forum-user }}" target="_blank">@{{ page.forum-userdisplay }}</a>
+       </ul>
 </div>
 
 <div class="pagination">
