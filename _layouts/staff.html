@@ -9,7 +9,10 @@ layout: default
       <h3 style="margin-top: -1rem;"><span style="color: #{{ page.rank-color }}">{{ page.rank }}</span></h3>
   </ul>
   {{ content }}
-      <h2>Contact {{ page.title }}</h2>
+    <blockquote>
+      <p>"{{ page.quote }}" <em>--{{ page.quote-author }}</em></p>
+    </blockquote>
+    <h2>Contact {{ page.title }}</h2>
        <ul>
          <li>Discord: <code>@{{ page.discord }}</code></li>
          <li>Forum: <a href="https://forum.unraveledmc.com/u/{{ page.forum }}" target="_blank">@{{ page.forum-user }}</a>
