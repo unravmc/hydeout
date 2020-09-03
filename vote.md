@@ -7,16 +7,19 @@ sidebar_link: true
 
 When you vote for the server, you’ll receive perks from voting in-game immediately! It's a great way to show your support for the server and to have more fun, all at zero cost!
 
+
+
 ## Where to vote
+We offer four different sites where you can vote for and show your support for the server. Each site will grant all perks for six hours each, and voting on all four will grant them for the day. Vote every day to make sure you keep your perks and special rank!
 
 <div class="pagination">
-    <span class="pagination-item older"><button onclick="{{ site.baseurl }}/mcmp'">Minecraft-MP</button></span>
-    <span class="pagination-item newer"><button onclick="{{ site.baseurl }}/topg'">TopG</button></span>
+    <span class="pagination-item older"><button style="width: 300px; height: 100px;" onclick="{{ site.baseurl }}/mcmp'">Minecraft-MP</button></span>
+    <span class="pagination-item newer"><button style="width: 300px; height: 100px;" onclick="{{ site.baseurl }}/topg'">TopG</button></span>
 </div>
 
 <div class="pagination">
-    <span class="pagination-item older"><button onclick="{{ site.baseurl }}/mcs'">MinecraftServers</button></span>
-    <span class="pagination-item newer"><button onclick="{{ site.baseurl }}/pmc'">Planet Minecraft</button></span>
+    <span class="pagination-item older"><button style="width: 300px; height: 100px;" onclick="{{ site.baseurl }}/mcs'">MinecraftServers</button></span>
+    <span class="pagination-item newer"><button style="width: 300px; height: 100px;" onclick="{{ site.baseurl }}/pmc'">Planet Minecraft</button></span>
 </div>
 
 ## All about the perks
