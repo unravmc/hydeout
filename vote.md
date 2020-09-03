@@ -7,19 +7,20 @@ sidebar_link: true
 
 When you vote for the server, you’ll receive perks from voting in-game immediately! It's a great way to show your support for the server and to have more fun, all at zero cost!
 
-## Where you can vote
+## Where to vote
 
 <div class="pagination">
-    <span class="pagination-item older"><a class="pagination-item" href="{{ site.baseurl }}/mcmp">Minecraft-MP</a></span>
-    <span class="pagination-item newer"><a class="pagination-item" href="{{ site.baseurl }}/topg">TopG</a></span>
+    <span class="pagination-item older"><button onclick="{{ site.baseurl }}/mcmp'">Minecraft-MP</button></span>
+    <span class="pagination-item newer"><button onclick="{{ site.baseurl }}/topg'">TopG</button></span>
 </div>
 
 <div class="pagination">
-    <span class="pagination-item older"><a class="pagination-item" href="{{ site.baseurl }}/mcs">MinecraftServers</a></span>
-    <span class="pagination-item newer"><a class="pagination-item" href="{{ site.baseurl }}/pmc">PlanetMinecraft</a></span>
+    <span class="pagination-item older"><button onclick="{{ site.baseurl }}/mcs'">MinecraftServers</button></span>
+    <span class="pagination-item newer"><button onclick="{{ site.baseurl }}/pmc'">Planet Minecraft</button></span>
 </div>
 
-Here are some of the many perks that we offer:
+## All about the perks
+We promised free perks, so here they are. All the free perks we offer. All of them:
 
 | Chat Name Color           | Aqua    | Customizable! |
 |---------------------------|---------|---------------|
