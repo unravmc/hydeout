@@ -13,7 +13,7 @@ Voting helps new players find the server, and by voting you are showing your sup
 We offer four different sites where you can vote for and show your support for the server. Each site will grant all perks for six hours each, and voting on all four will grant them for the day. Vote every day to make sure you keep your perks and special rank!
 
 <div class="pagination">
-    <span class="pagination-item older"><button style="width: 300px; height: 100px;" onclick="{{ site.baseurl }}/mcmp'">Minecraft-MP</button></span>
+    <span class="pagination-item older"><a href="{{ site.baseurl }}/mcmp"><button style="width: 300px; height: 100px;">Minecraft-MP</button></a></span>
     <span class="pagination-item newer"><button style="width: 300px; height: 100px;" onclick="{{ site.baseurl }}/topg'">TopG</button></span>
 </div>
 
@@ -27,8 +27,8 @@ All of our perks for voters come at no additional cost. Get all of the mentioned
 
 |                           | Voters  | Donators       |
 |---------------------------|---------|----------------|
-| Chat Name Color           | <span style="color: #76d7c4">Aqua</span>    | Customizable!  |
-| Chat Prefix               | <span style="color: #515a5a">[</span><span style="color: #00AAAA">Voter</span><span style="color: #515a5a">]</span> | [Donor]        |
+| Chat Name Color           | <span style="color: #76d7c4">Aqua</span>    | <span style="color: #2980b9 ">Blue</span> |
+| Chat Prefix               | <span style="color: #515a5a">[</span><span style="color: #00AAAA">Voter</span><span style="color: #515a5a">]</span> | <span style="color: #515a5a">[</span><span style="color: #0000AA">D</span><span style="color: #5555FF">on</span><span style="color: #00AAAA">at</span><span style="color: #55FFFF">or</span><span style="color: #515a5a">]</span>        |
 | Support for the server    | ✔️      | ✔️            |
 | Voter-exclusive flatworld | ✔️      | ✔️            |
 | Trail particles           | ✔️      | ✔️            |
