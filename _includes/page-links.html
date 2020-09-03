@@ -8,6 +8,7 @@
     {% if node.sidebar_link %}
       <a class="page-link {% if page.url == node.url %} active{% endif %}"
           href="{{ node.url | relative_url }}">{{ node.title }}</a>
+      <p>Play with 1.16.1 using <a href="{{ site.baseurl }}/play">unraveledmc.com</a></p>
     {% endif %}
   {% endif %}
 {% endfor %}
