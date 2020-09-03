@@ -9,10 +9,15 @@ When you vote for the server, you’ll receive perks from voting in-game immedia
 
 ## Where you can vote
 
-<ul>
-    <div class="pagination"><a class="pagination-item" href="{{ site.baseurl }}/staff">Minecraft-MP</a></div>
-    <div class="pagination"><a class="pagination-item" href="{{ site.baseurl }}/staff">TopG</a></div>
-  </ul>
+<div class="pagination">
+    <span class="pagination-item older"><a class="pagination-item" href="{{ site.baseurl }}/mcmp">Minecraft-MP</a></span>
+    <span class="pagination-item newer"><a class="pagination-item" href="{{ site.baseurl }}/topg">TopG</a></span>
+</div>
+
+<div class="pagination">
+    <span class="pagination-item older"><a class="pagination-item" href="{{ site.baseurl }}/mcs">MinecraftServers</a></span>
+    <span class="pagination-item newer"><a class="pagination-item" href="{{ site.baseurl }}/pmc">PlanetMinecraft</a></span>
+</div>
 
 Here are some of the many perks that we offer:
 
