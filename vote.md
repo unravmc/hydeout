@@ -23,10 +23,11 @@ We offer four different sites where you can vote for and show your support for t
 </div>
 
 ## All about the perks
-We promised free perks, so here they are. All the free perks we offer. All of them:
+All of our perks for voters come at no additional cost. Get all of the mentioned perks (with more coming soon) below just by submitting a vote. However, if you'd like the most perks possible, plus voter perks ***permanentely***, you can [donate]({{ site.baseurl}}/donate). 
 
-| Chat Name Color           | Aqua    | Customizable!  |
+|                           | Voters  | Donators       |
 |---------------------------|---------|----------------|
+| Chat Name Color           | Aqua    | Customizable!  |
 | Chat Prefix               | [Voter] | [Donor]        |
 | Support for the server    | ✔️      | ✔️            |
 | Voter-exclusive flatworld | ✔️      | ✔️            |
@@ -41,6 +42,6 @@ We promised free perks, so here they are. All the free perks we offer. All of th
 | Spectator mode            | ✔️      | ✔️            |
 | Edit item names and lores | ✔️      | ✔️            |
 | Permanent voting perks    |         | ✔️            |
-| Customizable prefix       |         |  ✔️           |
-| Remote enderchests        |         |  ✔️           |
-| Remote crafting tables    |         |  ✔️           |
+| Customizable prefix       |         | ✔️            |
+| Remote enderchests        |         | ✔️            |
+| Remote crafting tables    |         | ✔️            |
