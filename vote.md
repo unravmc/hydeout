@@ -14,12 +14,12 @@ We offer four different sites where you can vote for and show your support for t
 
 <div class="pagination">
     <span class="pagination-item older"><a href="{{ site.baseurl }}/mcmp"><button style="width: 300px; height: 100px;">Minecraft-MP</button></a></span>
-    <span class="pagination-item newer"><button style="width: 300px; height: 100px;" onclick="{{ site.baseurl }}/topg'">TopG</button></span>
+    <span class="pagination-item newer"><a href="{{ site.baseurl }}/topg"><button style="width: 300px; height: 100px;">TopG</button></a></span>
 </div>
 
 <div class="pagination">
-    <span class="pagination-item older"><button style="width: 300px; height: 100px;" onclick="{{ site.baseurl }}/mcs'">MinecraftServers</button></span>
-    <span class="pagination-item newer"><button style="width: 300px; height: 100px;" onclick="{{ site.baseurl }}/pmc'">Planet Minecraft</button></span>
+    <span class="pagination-item older"><a href="{{ site.baseurl }}/mcs"><button style="width: 300px; height: 100px;">MinecraftServers</button></a></span>
+    <span class="pagination-item newer"><a href="{{ site.baseurl }}/pmc"><button style="width: 300px; height: 100px;">Planet Minecraft</button></a></span>
 </div>
 
 ## All about the perks
