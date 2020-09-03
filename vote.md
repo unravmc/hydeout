@@ -27,8 +27,8 @@ All of our perks for voters come at no additional cost. Get all of the mentioned
 
 |                           | Voters  | Donators       |
 |---------------------------|---------|----------------|
-| Chat Name Color           | Aqua    | Customizable!  |
-| Chat Prefix               | [Voter] | [Donor]        |
+| Chat Name Color           | <span style="color: #76d7c4">Aqua</span>    | Customizable!  |
+| Chat Prefix               | <span style="color: #515a5a">[</span><span style="color: #00AAAA">Voter</span><span style="color: #515a5a">]</span> | [Donor]        |
 | Support for the server    | ✔️      | ✔️            |
 | Voter-exclusive flatworld | ✔️      | ✔️            |
 | Trail particles           | ✔️      | ✔️            |
