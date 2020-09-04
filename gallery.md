@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Home
+title: Gallery
 permalink: /gallery/
 sidebar_link: true
 ---
