@@ -2,18 +2,8 @@
 layout: post
 title: Homepage feedback welcomed 
 categories:
- - news
-tags:
  - website
----
-
----
-layout: post
-title: Welcome to UnraveledMC
-categories:
- - news
 tags:
- - news
  - website
 ---
 
