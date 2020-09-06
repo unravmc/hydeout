@@ -23,7 +23,7 @@ We offer four different sites where you can vote for and show your support for t
 </div>
 
 ## All about the perks
-All of our perks for voters come at no additional cost. Get all of the mentioned perks (with more coming soon) below just by submitting a vote. However, if you'd like the most perks possible, plus voter perks ***permanentely***, you can [donate]({{ site.baseurl}}/donate). 
+All of our perks for voters come at no additional cost. Get all of the mentioned perks (with more coming soon) below just by submitting a vote. However, if you'd like the most perks possible, plus voter perks ***permanently***, you can [donate]({{ site.baseurl}}/donate). 
 
 |                           | Voters  | Donators       |
 |---------------------------|---------|----------------|
